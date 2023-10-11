@@ -13,7 +13,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Prueba gh-actions algo mas aaaa</h1>
+      <h1>Prueba gh-actions algo mas aaaa bbbb</h1>
     </>
   );
 }
